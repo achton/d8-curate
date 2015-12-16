@@ -11,6 +11,9 @@ A curated repository of links to documentation pages, blog posts, videos, podcas
 ### Overall development and DX
 - [PODCAST: "The Drupal 8 Developer Experience"](https://www.lullabot.com/podcasts/drupalizeme-podcast/the-drupal-8-developer-experience) - Lullabot Podcast - December 3, 2015
 
+### Configuration Management (CMI)
+- ["Configuration Management in Drupal 8: The Key Concepts"](https://www.lullabot.com/articles/configuration-management-in-drupal-8-the-key-concepts) - Matthew Tift/Lullabot - November 4, 2015
+
 ### Multilingual
 - ["Drupal 8 multilingual improvements"](http://www.drupal8multilingual.org/features) - drupal8multilingual.org
 
@@ -26,3 +29,6 @@ A curated repository of links to documentation pages, blog posts, videos, podcas
 - ["Ten things you need to know about Drupal Console"](http://www.blinkreaction.com/blog/nine-things-you-need-to-know-about-the-drupal-console-project)
 - [PODCAST: "Drupal Console"](https://www.lullabot.com/podcasts/drupalizeme-podcast/drupal-console) - Lullabot Podcast - February 27, 2015
 - ["Drush and the Drupal Console with Drupal 8"](https://pantheon.io/blog/drush-and-drupal-console-drupal-8) - Pantheon Blog - September 29, 2015
+
+### Composer
+- ["Goodbye Drush Make, Hello Composer!"](https://www.lullabot.com/articles/goodbye-drush-make-hello-composer) - Karen Stevenson/Lullabot - October 26, 2015
