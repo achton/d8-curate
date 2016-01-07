@@ -13,6 +13,8 @@ A curated repository of links to documentation pages, blog posts, videos, podcas
 
 ### Configuration Management (CMI)
 - ["Configuration Management in Drupal 8: The Key Concepts"](https://www.lullabot.com/articles/configuration-management-in-drupal-8-the-key-concepts) - Matthew Tift/Lullabot - November 4, 2015
+- ["Drupal 8 Configuration Management - Solving the Configuration Conundrum"](http://chromatichq.com/blog/drupal-8-configuration-management-solving-configuration-conundrum) - Märt Matsoo/Chromatic - October 14, 2015
+- ["Up and Running with Drupal 8"](http://thinkshout.com/blog/2015/11/up-and-running-with-drupal-8/) - Joe Komenda/ThinkShout - November 18, 2015
 
 ### Multilingual
 - ["Drupal 8 multilingual improvements"](http://www.drupal8multilingual.org/features) - drupal8multilingual.org
