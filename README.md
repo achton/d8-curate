@@ -24,6 +24,7 @@ A curated repository of links to documentation pages, blog posts, videos, podcas
 
 ### Caching
 - ["Drupal 8: BigPipe module ready"](http://wimleers.com/blog/drupal-8-bigpipe-module-ready) - WimLeers.com - November 19, 2015
+- ["VIDEO: The Best Features of Drupal 8 - Bigpipe Caching"](https://www.youtube.com/watch?v=X34MFjXNzzk) - Acro Media Inc. - Jan 8th 2016
 
 ## 3. Tools for developers
 
